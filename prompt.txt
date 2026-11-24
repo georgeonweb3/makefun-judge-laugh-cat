@@ -1,0 +1,4 @@
+Build the make.fun "Make the AI Judge Laugh: Cat Reviews Its Human" entry (u-motasimfuad-make-the-ai-judge-laugh-cat-reviews-its-42a34990).
+Write main.py (Python 3.13, deterministic, no network) that writes exactly one funny single-line one-star review, written by a house cat about its human, under 200 characters, to /output/entry.txt.
+The complaint must be specific and recognisable (the food bowl, the closed door, the laptop keyboard), the voice unmistakably feline with the human measured by cat standards, the wording tight with a sting in the last few words, and the deadpan shape of a real one-star review while the content goes somewhere absurd.
+Draft 3-4 candidate lines, score them against the judge brief, pick the strongest, then do one extra-mile pass. Verify the output passes the gate locally.
